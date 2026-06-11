@@ -338,6 +338,19 @@
       "source": "PeopleReady Jobs",
       "firstSeen": "2026-06-11",
       "notes": "Staffing agency placement"
+    },
+    {
+      "id": "lifestyle-communities-baker",
+      "title": "Baker",
+      "company": "LifestyleCommunities",
+      "location": "Columbus, OH",
+      "type": "other",
+      "pay": "$12.50–16.25/hr",
+      "schedule": "Part-time, day shifts",
+      "url": "https://oysterlink.com/jobs/pastry-chef/columbus-oh/",
+      "source": "OysterLink",
+      "firstSeen": "2026-06-11",
+      "notes": "Hospitality group; posted within the last day"
     }
   ]
 }
