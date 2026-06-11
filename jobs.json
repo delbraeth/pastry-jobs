@@ -273,6 +273,71 @@
       "source": "SimplyHired",
       "firstSeen": "2026-06-11",
       "notes": ""
+    },
+    {
+      "id": "nothing-bundt-reynoldsburg-froster",
+      "title": "Froster",
+      "company": "Nothing Bundt Cakes (Reynoldsburg)",
+      "location": "Reynoldsburg, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "Weekends as needed",
+      "url": "https://www.simplyhired.com/job/1zPTqHU_LWxVE4_-W4rluuL6R4J7tSeOdyuYNkA74M_RSwavMU6yXg",
+      "source": "SimplyHired",
+      "firstSeen": "2026-06-11",
+      "notes": "Dedicated bakery — cake frosting & finishing"
+    },
+    {
+      "id": "nothing-bundt-westerville-froster",
+      "title": "Froster",
+      "company": "Nothing Bundt Cakes (Westerville)",
+      "location": "Westerville, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "Part-time",
+      "url": "https://www.simplyhired.com/job/y8mgaphfT9aEEY_AZDlKgm5hC9C5OLO-LEuLmIj4VsvUimQ6P0CoPg",
+      "source": "SimplyHired",
+      "firstSeen": "2026-06-11",
+      "notes": "Dedicated bakery — cake frosting & finishing"
+    },
+    {
+      "id": "two-dolls-cakery-baker-assistant",
+      "title": "Baker Assistant",
+      "company": "Two Dolls Cakery",
+      "location": "Hilliard, OH",
+      "type": "other",
+      "pay": "$11.50–13.50/hr",
+      "schedule": "Overtime available",
+      "url": "https://www.simplyhired.com/job/P2_LX8Gl2Tzo16TPyx6sNnmxEVFqBn17pbi8pSuBThA5q1zobRAH9A",
+      "source": "SimplyHired",
+      "firstSeen": "2026-06-11",
+      "notes": "Custom cake shop"
+    },
+    {
+      "id": "hidden-valley-orchards-baker",
+      "title": "Baker",
+      "company": "Hidden Valley Orchards",
+      "location": "Lebanon, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "Weekends as needed",
+      "url": "https://www.simplyhired.com/job/uyGdMqI4NdZUsXTisbqrznyHmRW045fzWoZ9OeVdbpD-F3hEebrv1g",
+      "source": "SimplyHired",
+      "firstSeen": "2026-06-11",
+      "notes": "Orchard farm-market bakery"
+    },
+    {
+      "id": "peopleready-cincinnati-pastry-chef",
+      "title": "Pastry Chef",
+      "company": "PeopleReady",
+      "location": "Cincinnati, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "",
+      "url": "https://jobs.peopleready.com/jobs/Cincinnati-/PR-1465316/Pastry-Chef",
+      "source": "PeopleReady Jobs",
+      "firstSeen": "2026-06-11",
+      "notes": "Staffing agency placement"
     }
   ]
 }
