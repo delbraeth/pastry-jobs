@@ -117,6 +117,7 @@ const DAYT  = ['dayton','centerville','kettering','washington township','xenia',
 
 let jobs = [];
 let filter = 'all';
+let lastUpdated = '';
 
 function region(loc) {
   const l = loc.toLowerCase();
@@ -125,8 +126,7 @@ function region(loc) {
   if (DAYT.some(c => l.includes(c))) return 'dayton';
   return 'other';
 }
-function daysAgo(d) { return Math.floor((Date.now() - new Date(d + 'T12:00:00')) / 864e5); }
-function isNew(j) { return daysAgo(j.firstSeen) <= 3; }
+function isNew(j) { return j.firstSeen === lastUpdated; }
 function isVenue(j) { return j.type === 'sports' || j.type === 'event'; }
 
 function render() {
@@ -181,6 +181,7 @@ fetch('jobs.json?v=' + Date.now())
   .then(r => r.json())
   .then(data => {
     jobs = data.jobs;
+    lastUpdated = data.updated;
     document.getElementById('updated').textContent = 'Last updated: ' + data.updated;
     render();
   })
