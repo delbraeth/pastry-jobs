@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11",
+  "updated": "2026-06-12",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -351,6 +351,45 @@
       "source": "OysterLink",
       "firstSeen": "2026-06-11",
       "notes": "Hospitality group; posted within the last day"
+    },
+    {
+      "id": "nothing-bundt-westerville-bakery-assistant",
+      "title": "Bakery Assistant",
+      "company": "Nothing Bundt Cakes #173 (Westerville)",
+      "location": "Westerville, OH",
+      "type": "other",
+      "pay": "$11.00–12.50/hr",
+      "schedule": "Weekends as needed",
+      "url": "https://www.simplyhired.com/job/OK1fXkNUAu8O8GENr9XFg_M5DpXgYYP_LdhjZ4nzxRU10udFFQaLAA",
+      "source": "SimplyHired",
+      "firstSeen": "2026-06-12",
+      "notes": "Dedicated bakery — baking & prep support"
+    },
+    {
+      "id": "busken-bakery-baker",
+      "title": "Baker",
+      "company": "Busken Bakery",
+      "location": "Cincinnati, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "",
+      "url": "https://www.ziprecruiter.com/c/Busken-Bakery/Job/Baker/-in-Cincinnati,OH?jid=d4ade707acc91b8c",
+      "source": "ZipRecruiter",
+      "firstSeen": "2026-06-12",
+      "notes": "Iconic Cincinnati bakery since 1928"
+    },
+    {
+      "id": "ghostlight-coffee-baker",
+      "title": "Baker",
+      "company": "Ghostlight Coffee",
+      "location": "Dayton, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "",
+      "url": "https://app.joinhomebase.com/loc/ghostlight-coffee/job/baker",
+      "source": "Homebase / company posting",
+      "firstSeen": "2026-06-12",
+      "notes": "Coffeehouse & bakery on Wayne Ave; scratch baking, recipe development encouraged"
     }
   ]
 }
