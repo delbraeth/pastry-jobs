@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14",
+  "updated": "2026-06-15",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -403,6 +403,58 @@
       "source": "OysterLink",
       "firstSeen": "2026-06-14",
       "notes": "Dedicated bakery \u2014 scratch baking & prep at Columbus location"
+    },
+    {
+      "id": "fidelity-hotel-cincinnati-pastry-chef",
+      "title": "Pastry Chef",
+      "company": "Fidelity Hotel Cincinnati",
+      "location": "Cincinnati, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://oysterlink.com/jobs/pastry-chef/cincinnati-oh/",
+      "source": "OysterLink",
+      "firstSeen": "2026-06-15",
+      "notes": "Boutique hotel in downtown Cincinnati"
+    },
+    {
+      "id": "fidelity-hotel-cincinnati-pastry-cook",
+      "title": "Pastry Cook",
+      "company": "Fidelity Hotel Cincinnati",
+      "location": "Cincinnati, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "",
+      "url": "https://oysterlink.com/jobs/pastry-chef/cincinnati-oh/",
+      "source": "OysterLink",
+      "firstSeen": "2026-06-15",
+      "notes": "Boutique hotel pastry team"
+    },
+    {
+      "id": "thunderdome-restaurant-group-pastry-cook",
+      "title": "Pastry Cook",
+      "company": "Thunderdome Restaurant Group",
+      "location": "Cincinnati, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "",
+      "url": "https://oysterlink.com/jobs/pastry-chef/cincinnati-oh/",
+      "source": "OysterLink",
+      "firstSeen": "2026-06-15",
+      "notes": "Cincinnati-based restaurant group (The Eagle, Bakersfield, etc.)"
+    },
+    {
+      "id": "hollywood-gaming-dayton-raceway-sous-chef",
+      "title": "Sous Chef",
+      "company": "Hollywood Gaming at Dayton Raceway",
+      "location": "Dayton, OH",
+      "type": "event",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://oysterlink.com/jobs/pastry-chef/dayton-oh/",
+      "source": "OysterLink",
+      "firstSeen": "2026-06-15",
+      "notes": "Racino gaming & entertainment venue"
     }
   ]
 }
