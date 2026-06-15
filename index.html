@@ -95,6 +95,7 @@
   <button data-f="all" class="active">All</button>
   <button data-f="venue">🏟 Venues &amp; Event Spaces</button>
   <button data-f="new">New</button>
+  <button data-f="week">Last 7 days</button>
   <button data-f="cincinnati">Cincinnati</button>
   <button data-f="columbus">Columbus</button>
   <button data-f="dayton">Dayton</button>
@@ -116,7 +117,7 @@ const COLS  = ['columbus','dublin','upper arlington','new albany','westerville',
 const DAYT  = ['dayton','centerville','kettering','washington township','xenia','wilberforce','beavercreek','springboro','miamisburg'];
 
 let jobs = [];
-let active = new Set();  // selected filters; empty = show all
+let filter = 'all';
 let lastUpdated = '';
 
 function region(loc) {
@@ -127,25 +128,28 @@ function region(loc) {
   return 'other';
 }
 function isNew(j) { return j.firstSeen === lastUpdated; }
-function isVenue(j) { return j.type === 'sports' || j.type === 'event'; }
-function matchesFilter(j, f) {
-  if (f === 'venue') return isVenue(j);
-  if (f === 'new') return isNew(j);
-  return region(j.location) === f;
+function withinDays(j, n) {
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const seen = new Date(j.firstSeen + 'T00:00:00');
+  return (today - seen) / 86400000 <= n - 1;
 }
+function isVenue(j) { return j.type === 'sports' || j.type === 'event'; }
 
 function render() {
   const list = document.getElementById('list');
   let shown = jobs.filter(j => {
-    if (active.size === 0) return true;          // "All" / nothing selected
-    return [...active].some(f => matchesFilter(j, f));  // additive (OR)
+    if (filter === 'all') return true;
+    if (filter === 'venue') return isVenue(j);
+    if (filter === 'new') return isNew(j);
+    if (filter === 'week') return withinDays(j, 7);
+    return region(j.location) === filter;
   });
   // venues first, then newest first
   shown.sort((a, b) => (isVenue(b) - isVenue(a)) || (new Date(b.firstSeen) - new Date(a.firstSeen)) || a.company.localeCompare(b.company));
 
   document.getElementById('count').textContent =
     shown.length + ' listing' + (shown.length === 1 ? '' : 's') +
-    (active.size ? ' (filtered)' : '');
+    (filter !== 'all' ? ' (filtered)' : '');
 
   if (!shown.length) {
     list.innerHTML = '<div class="empty">No listings match this filter right now — check back tomorrow.</div>';
@@ -173,24 +177,10 @@ function render() {
     </div>`).join('');
 }
 
-function updateButtons() {
-  document.querySelectorAll('.filters button').forEach(b => {
-    const f = b.dataset.f;
-    b.classList.toggle('active', f === 'all' ? active.size === 0 : active.has(f));
-  });
-}
-
 document.getElementById('filters').addEventListener('click', e => {
   if (e.target.tagName !== 'BUTTON') return;
-  const f = e.target.dataset.f;
-  if (f === 'all') {
-    active.clear();                 // All clears every other filter
-  } else if (active.has(f)) {
-    active.delete(f);               // toggle off
-  } else {
-    active.add(f);                  // additive: stack filters
-  }
-  updateButtons();
+  filter = e.target.dataset.f;
+  document.querySelectorAll('.filters button').forEach(b => b.classList.toggle('active', b === e.target));
   render();
 });
 
