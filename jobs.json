@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17",
+  "updated": "2026-06-18",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -494,6 +494,19 @@
       "source": "OysterLink",
       "firstSeen": "2026-06-16",
       "notes": "Dedicated bakery — scratch baking & prep"
+    },
+    {
+      "id": "aramark-denison-chef-de-cuisine",
+      "title": "Chef de Cuisine",
+      "company": "Aramark (Denison University)",
+      "location": "Granville, OH",
+      "type": "event",
+      "pay": "$70–75K",
+      "schedule": "Full-time",
+      "url": "https://oysterlink.com/job-posting/chef-de-cuisine-denison-university/",
+      "source": "OysterLink",
+      "firstSeen": "2026-06-18",
+      "notes": "Campus dining — culinary leadership for Denison University foodservice (Columbus metro)"
     }
   ]
 }
