@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -533,6 +533,19 @@
       "source": "OysterLink",
       "firstSeen": "2026-06-20",
       "notes": "Private country club \u2014 banquet & event catering kitchen"
+    },
+    {
+      "id": "doro-blue-ash-pastry-chef",
+      "title": "Pastry Chef",
+      "company": "D'oro",
+      "location": "Blue Ash, OH",
+      "type": "other",
+      "pay": "$18/hr",
+      "schedule": "Weekends as needed",
+      "url": "https://www.simplyhired.com/job/s0VBLNKCd8_J9Js0wvqqV6hf-Ay7sGyuWJTt-jSciaI-xlta6gNeXA",
+      "source": "SimplyHired",
+      "firstSeen": "2026-06-21",
+      "notes": "Restaurant in Blue Ash (Cincinnati metro); ServSafe, leadership role"
     }
   ]
 }
