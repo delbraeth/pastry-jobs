@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -572,6 +572,32 @@
       "source": "OysterLink",
       "firstSeen": "2026-06-28",
       "notes": "Campus dining baker via Compass Group at NKU; Cincinnati metro, just across the river"
+    },
+    {
+      "id": "fabio-viviani-pastry-program-director",
+      "title": "Pastry Program Director",
+      "company": "Fabio Viviani Hospitality Group",
+      "location": "Cincinnati, OH",
+      "type": "other",
+      "pay": "$85–100K",
+      "schedule": "Full-time",
+      "url": "https://www.simplyhired.com/job/CxLCA4dHyXTnSy6gq_qyqEXJp3LAeectDqhXxtH9KPCovn79NFvI8w",
+      "source": "SimplyHired",
+      "firstSeen": "2026-07-04",
+      "notes": "Senior leadership role overseeing the group's pastry program; 3+ years experience"
+    },
+    {
+      "id": "flour-barn-bakery-pastry-chef",
+      "title": "Pastry Chef",
+      "company": "Flour Barn Bakery",
+      "location": "Marysville, OH",
+      "type": "other",
+      "pay": "$23–28/hr",
+      "schedule": "Full-time",
+      "url": "https://www.simplyhired.com/job/OivFoW6IyokCbor-vGGpdD1AnNlLP2Laxgslwv_Sjpt0LHxAHTqJng",
+      "source": "SimplyHired",
+      "firstSeen": "2026-07-04",
+      "notes": "Farm bakery (Columbus metro); recipe development & seasonal offerings encouraged"
     }
   ]
 }
