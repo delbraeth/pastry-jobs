@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -598,6 +598,19 @@
       "source": "SimplyHired",
       "firstSeen": "2026-07-04",
       "notes": "Farm bakery (Columbus metro); recipe development & seasonal offerings encouraged"
+    },
+    {
+      "id": "milos-catering-pastry-chef",
+      "title": "Pastry Chef",
+      "company": "Milo's Catering",
+      "location": "Columbus, OH",
+      "type": "event",
+      "pay": "",
+      "schedule": "",
+      "url": "https://cateringbymilos.com/employment/",
+      "source": "Company careers page",
+      "firstSeen": "2026-07-05",
+      "notes": "High-volume catering; venues include the Ohio Statehouse, Columbus Museum of Art & Franklin Park Conservatory; 5-6am starts; 2+ yrs experience"
     }
   ]
 }
