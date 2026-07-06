@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "jobs": [
     {
       "id": "delaware-north-nationwide-sous-chef",
@@ -611,6 +611,32 @@
       "source": "Company careers page",
       "firstSeen": "2026-07-05",
       "notes": "High-volume catering; venues include the Ohio Statehouse, Columbus Museum of Art & Franklin Park Conservatory; 5-6am starts; 2+ yrs experience"
+    },
+    {
+      "id": "new-albany-country-club-pastry-cook",
+      "title": "Pastry Cook",
+      "company": "New Albany Country Club",
+      "location": "New Albany, OH",
+      "type": "event",
+      "pay": "$18–20/hr",
+      "schedule": "Part-time",
+      "url": "https://www.indeed.com/q-pastry-cook-l-columbus,-oh-jobs.html",
+      "source": "Indeed (via web search)",
+      "firstSeen": "2026-07-06",
+      "notes": "Private country club — pastries & desserts for members, events & dining facilities"
+    },
+    {
+      "id": "osu-assistant-manager-culinary-production-kitchen",
+      "title": "Assistant Manager - Culinary Production Kitchen",
+      "company": "The Ohio State University",
+      "location": "Columbus, OH",
+      "type": "event",
+      "pay": "$17.50–22.86/hr",
+      "schedule": "Hourly",
+      "url": "https://oysterlink.com/jobs/pastry-chef/columbus-oh/",
+      "source": "OysterLink",
+      "firstSeen": "2026-07-06",
+      "notes": "Campus dining production kitchen (bakery/production ops); posted within the last day"
     }
   ]
 }
