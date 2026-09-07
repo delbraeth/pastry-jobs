@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-09-07",
   "jobs": [
     {
       "id": "compass-gccc-pastry-cook-baker",
@@ -11,7 +11,7 @@
       "schedule": "Full-time",
       "url": "https://careers.compass-usa.com/pastry-cook-baker-greater-columbus-convention-center/job/3DC0114CFE238DC3A9F0F2D1D34631E3",
       "source": "Compass Group Careers",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": "Levy operates 200+ entertainment & sports venues"
     },
     {
@@ -24,21 +24,8 @@
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/EiOTRI9-dESyZHCloebyqcQaD39RtIgkZjPfc6UNxKNOgCB-j7gdZw",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": "Casino & entertainment venue"
-    },
-    {
-      "id": "sodexo-uc-pastry-chef",
-      "title": "Pastry Chef",
-      "company": "Sodexo (University of Cincinnati)",
-      "location": "Cincinnati, OH",
-      "type": "event",
-      "pay": "$22\u201325/hr",
-      "schedule": "Full-time",
-      "url": "https://www.simplyhired.com/job/-pWFn7wCeJLMs1plXKP48EfzpqMSlQA7G--D8VZXIw7aafTBcv1WDQ",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": "Banquets, specialty orders & campus food operations"
     },
     {
       "id": "boca-pastry-cook",
@@ -50,7 +37,7 @@
       "schedule": "Part-time",
       "url": "https://www.simplyhired.com/job/RC65M_FBOGPG0d7H7s0px80cKa-_-OOj_VoapjtwvYStW2bmLDwsCQ",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": ""
     },
     {
@@ -63,46 +50,7 @@
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/nMg2Cgh1mK6HjboN_l6NZPjDUwa05VHDC_TR6YPMaJbSs_inL3HyZg",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": ""
-    },
-    {
-      "id": "agave-rye-pastry-assistant",
-      "title": "Pastry Chef Assistant",
-      "company": "Agave & Rye",
-      "location": "West Chester, OH",
-      "type": "other",
-      "pay": "$19/hr",
-      "schedule": "Weekends as needed",
-      "url": "https://www.simplyhired.com/job/RmYzTVvwSmr2yUy8-HKVTHltWmJXE3TLsR2s8yTnNygqMEXF_hYfKQ",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": "Willing to train the right candidate"
-    },
-    {
-      "id": "winn-winn-assistant-baker",
-      "title": "Assistant Baker",
-      "company": "Winn Winn Cafe",
-      "location": "Columbus, OH",
-      "type": "other",
-      "pay": "$15\u201317/hr",
-      "schedule": "Part-time",
-      "url": "https://www.simplyhired.com/job/WfOzUv1rmEEbf7_oY23QddT9JfOyk_n08lY3grGSAaLvwxNzrGzKdA",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": "Wholesale, catering & retail cafe production"
-    },
-    {
-      "id": "littletons-pastry-cook",
-      "title": "Pastry Cook",
-      "company": "Littleton's Market",
-      "location": "Upper Arlington, OH",
-      "type": "other",
-      "pay": "$18\u201323/hr",
-      "schedule": "Full-time",
-      "url": "https://www.simplyhired.com/job/-OIW0YFogMASuyAyaatwvo34ebntK2VY0HBGPEuvUtP83WQgUu7UAQ",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": ""
     },
     {
@@ -115,7 +63,7 @@
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/VVe4oo9JfNnsoNlvou4aAOhOxXV4vyNyXXo9c3nyU0-GPWgaa5jxFQ",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": "Campus dining & catering"
     },
     {
@@ -128,73 +76,8 @@
       "schedule": "Part-time",
       "url": "https://www.simplyhired.com/job/1DcK_TZiCPiN1e7OxMcJppZjgKLRtb3VsrnTiH6KacSVH7jTpwEEnQ",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": ""
-    },
-    {
-      "id": "melt-n-dip-pastry-cook",
-      "title": "Pastry Cook",
-      "company": "Melt N Dip",
-      "location": "Dublin, OH",
-      "type": "other",
-      "pay": "$14\u201318/hr",
-      "schedule": "Part-time",
-      "url": "https://www.simplyhired.com/job/i9iUoWVbO_pUPnWIDpai77skRoHbfBSJYnXr538eh1yEuZ3s0vIrhQ",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": ""
-    },
-    {
-      "id": "ele-cake-decorator",
-      "title": "Cake & Treats Production",
-      "company": "Ele Cake Co.",
-      "location": "Dayton, OH",
-      "type": "other",
-      "pay": "$13\u201315/hr",
-      "schedule": "Part-time",
-      "url": "https://www.simplyhired.com/job/BP7K4ptZFzLPqspGzDuyafUvcHJXRDXgqgQG8LIOLysIMLvAnI_uiw",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": ""
-    },
-    {
-      "id": "nothing-bundt-reynoldsburg-froster",
-      "title": "Froster",
-      "company": "Nothing Bundt Cakes (Reynoldsburg)",
-      "location": "Reynoldsburg, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "Weekends as needed",
-      "url": "https://www.simplyhired.com/job/1zPTqHU_LWxVE4_-W4rluuL6R4J7tSeOdyuYNkA74M_RSwavMU6yXg",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": "Dedicated bakery \u2014 cake frosting & finishing"
-    },
-    {
-      "id": "nothing-bundt-westerville-froster",
-      "title": "Froster",
-      "company": "Nothing Bundt Cakes (Westerville)",
-      "location": "Westerville, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "Part-time",
-      "url": "https://www.simplyhired.com/job/y8mgaphfT9aEEY_AZDlKgm5hC9C5OLO-LEuLmIj4VsvUimQ6P0CoPg",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": "Dedicated bakery \u2014 cake frosting & finishing"
-    },
-    {
-      "id": "two-dolls-cakery-baker-assistant",
-      "title": "Baker Assistant",
-      "company": "Two Dolls Cakery",
-      "location": "Hilliard, OH",
-      "type": "other",
-      "pay": "$11.50\u201313.50/hr",
-      "schedule": "Overtime available",
-      "url": "https://www.simplyhired.com/job/P2_LX8Gl2Tzo16TPyx6sNnmxEVFqBn17pbi8pSuBThA5q1zobRAH9A",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
-      "notes": "Custom cake shop"
     },
     {
       "id": "hidden-valley-orchards-baker",
@@ -206,34 +89,8 @@
       "schedule": "Weekends as needed",
       "url": "https://www.simplyhired.com/job/uyGdMqI4NdZUsXTisbqrznyHmRW045fzWoZ9OeVdbpD-F3hEebrv1g",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-11",
+      "firstSeen": "2026-09-07",
       "notes": "Orchard farm-market bakery"
-    },
-    {
-      "id": "nothing-bundt-westerville-bakery-assistant",
-      "title": "Bakery Assistant",
-      "company": "Nothing Bundt Cakes #173 (Westerville)",
-      "location": "Westerville, OH",
-      "type": "other",
-      "pay": "$11.00\u201312.50/hr",
-      "schedule": "Weekends as needed",
-      "url": "https://www.simplyhired.com/job/OK1fXkNUAu8O8GENr9XFg_M5DpXgYYP_LdhjZ4nzxRU10udFFQaLAA",
-      "source": "SimplyHired",
-      "firstSeen": "2026-06-12",
-      "notes": "Dedicated bakery \u2014 baking & prep support"
-    },
-    {
-      "id": "nothing-bundt-104-columbus-assistant-baker",
-      "title": "Assistant Baker",
-      "company": "Nothing Bundt Cakes #104",
-      "location": "Columbus, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/jobs/pastry-chef/columbus-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-14",
-      "notes": "Dedicated bakery \u2014 scratch baking & prep at Columbus location"
     },
     {
       "id": "fidelity-hotel-cincinnati-pastry-chef",
@@ -245,34 +102,8 @@
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/2jHJa1Ge3s_JZ_XHZOgD-oWLDJ8nvUOcqVNRfGeaSVkXgJQcWI471Q",
       "source": "SimplyHired",
-      "firstSeen": "2026-06-15",
+      "firstSeen": "2026-09-07",
       "notes": "Boutique hotel in downtown Cincinnati"
-    },
-    {
-      "id": "fidelity-hotel-cincinnati-pastry-cook",
-      "title": "Pastry Cook",
-      "company": "Fidelity Hotel Cincinnati",
-      "location": "Cincinnati, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/jobs/pastry-chef/cincinnati-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-15",
-      "notes": "Boutique hotel pastry team"
-    },
-    {
-      "id": "thunderdome-restaurant-group-pastry-cook",
-      "title": "Pastry Cook",
-      "company": "Thunderdome Restaurant Group",
-      "location": "Cincinnati, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/jobs/pastry-chef/cincinnati-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-15",
-      "notes": "Cincinnati-based restaurant group (The Eagle, Bakersfield, etc.)"
     },
     {
       "id": "hollywood-gaming-dayton-raceway-sous-chef",
@@ -284,86 +115,8 @@
       "schedule": "Full-time",
       "url": "https://oysterlink.com/jobs/pastry-chef/dayton-oh/",
       "source": "OysterLink",
-      "firstSeen": "2026-06-15",
+      "firstSeen": "2026-09-07",
       "notes": "Racino gaming & entertainment venue"
-    },
-    {
-      "id": "sodexo-cincinnati-senior-baker",
-      "title": "Senior Baker",
-      "company": "Sodexo",
-      "location": "Cincinnati, OH",
-      "type": "event",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/job-posting/senior-baker-25/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-16",
-      "notes": "Contract foodservice (campus/corporate dining)"
-    },
-    {
-      "id": "nothing-bundt-cincinnati-assistant-baker",
-      "title": "Assistant Baker",
-      "company": "Nothing Bundt Cakes (Cincinnati)",
-      "location": "Cincinnati, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/job-posting/assistant-baker-145/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-16",
-      "notes": "Dedicated bakery \u2014 scratch baking & prep"
-    },
-    {
-      "id": "nothing-bundt-dayton-assistant-baker",
-      "title": "Assistant Baker",
-      "company": "Nothing Bundt Cakes (Dayton)",
-      "location": "Dayton, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/job-posting/assistant-baker-152/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-16",
-      "notes": "Dedicated bakery \u2014 scratch baking & prep"
-    },
-    {
-      "id": "aramark-denison-chef-de-cuisine",
-      "title": "Chef de Cuisine",
-      "company": "Aramark (Denison University)",
-      "location": "Granville, OH",
-      "type": "event",
-      "pay": "$70\u201375K",
-      "schedule": "Full-time",
-      "url": "https://oysterlink.com/job-posting/chef-de-cuisine-denison-university/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-18",
-      "notes": "Campus dining \u2014 culinary leadership for Denison University foodservice (Columbus metro)"
-    },
-    {
-      "id": "hotel-covington-pastry-cook",
-      "title": "Pastry Cook",
-      "company": "Hotel Covington",
-      "location": "Covington, KY",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/job-posting/pastry-cook-1235/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-20",
-      "notes": "Boutique hotel just across the river in the Cincinnati metro"
-    },
-    {
-      "id": "moraine-country-club-sous-chef",
-      "title": "Sous Chef",
-      "company": "Moraine Country Club",
-      "location": "Dayton, OH",
-      "type": "event",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/job-posting/sous-chef-10008455/",
-      "source": "OysterLink",
-      "firstSeen": "2026-06-20",
-      "notes": "Private country club \u2014 banquet & event catering kitchen"
     },
     {
       "id": "fabio-viviani-pastry-program-director",
@@ -375,7 +128,7 @@
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/CxLCA4dHyXTnSy6gq_qyqEXJp3LAeectDqhXxtH9KPCovn79NFvI8w",
       "source": "SimplyHired",
-      "firstSeen": "2026-07-04",
+      "firstSeen": "2026-09-07",
       "notes": "Senior leadership role overseeing the group's pastry program; 3+ years experience"
     },
     {
@@ -388,7 +141,7 @@
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/7trL9SJme2MWY5P_ss0bY6vMAIwvyKjdVW7r1SG8UWOinFBeTHzGWw",
       "source": "SimplyHired",
-      "firstSeen": "2026-08-07",
+      "firstSeen": "2026-09-07",
       "notes": "Top-of-market corporate pastry role for a Japanese restaurant group"
     },
     {
@@ -401,73 +154,8 @@
       "schedule": "",
       "url": "https://www.simplyhired.com/job/tQQVPerPEA_Q7Ym1mwKD6pD8tVqkMp5VoigzP2jBksUK1sjd-J3BYA",
       "source": "SimplyHired",
-      "firstSeen": "2026-08-07",
+      "firstSeen": "2026-09-07",
       "notes": "Hotel & restaurant hospitality group"
-    },
-    {
-      "id": "enchantea-columbus-baker",
-      "title": "Baker (Experience Required)",
-      "company": "Enchantea",
-      "location": "Columbus, OH",
-      "type": "other",
-      "pay": "$18-24/hr",
-      "schedule": "",
-      "url": "https://www.simplyhired.com/job/k1P_6ZhN_1s8RBYjiZvPGz5nKpGq7dDexmEeoZZfepg0c5eJdL-Uqg",
-      "source": "SimplyHired",
-      "firstSeen": "2026-08-07",
-      "notes": "Strong hourly rate for a bakery role"
-    },
-    {
-      "id": "fox-in-the-snow-dublin-baker",
-      "title": "Baker / Sandwich Maker / Food Expo",
-      "company": "Fox in the Snow",
-      "location": "Dublin, OH",
-      "type": "other",
-      "pay": "$20-21/hr",
-      "schedule": "",
-      "url": "https://www.simplyhired.com/job/uu0nFtGIdGOHk_qAbKvrVerUFr_b9OUUU-x_dEQIE9fishZW15TItA",
-      "source": "SimplyHired",
-      "firstSeen": "2026-08-07",
-      "notes": "Well-regarded Columbus-area scratch bakery & cafe"
-    },
-    {
-      "id": "golden-corral-columbus-baker",
-      "title": "Baker",
-      "company": "Golden Corral",
-      "location": "Columbus, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/jobs/pastry-chef/columbus-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-08-07",
-      "notes": "High-volume buffet bakery production"
-    },
-    {
-      "id": "iss-dayton-executive-sous-chef",
-      "title": "Executive Sous Chef",
-      "company": "ISS",
-      "location": "Dayton, OH",
-      "type": "event",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/jobs/pastry-chef/dayton-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-08-07",
-      "notes": "Contract corporate-dining operator; venue not specified in listing"
-    },
-    {
-      "id": "aramark-dayton-executive-chef",
-      "title": "Executive Chef",
-      "company": "Aramark",
-      "location": "Dayton, OH",
-      "type": "event",
-      "pay": "",
-      "schedule": "",
-      "url": "https://oysterlink.com/jobs/pastry-chef/dayton-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-08-07",
-      "notes": "Campus/venue dining contractor; specific account not named in listing"
     },
     {
       "id": "delaware-north-nationwide-arena-lead-cook",
@@ -479,8 +167,112 @@
       "schedule": "",
       "url": "https://careers.delawarenorth.com/job/23591181/lead-cook-nationwide-arena-columbus-oh/",
       "source": "Delaware North Careers",
-      "firstSeen": "2026-08-07",
+      "firstSeen": "2026-09-07",
       "notes": "Home of the Columbus Blue Jackets; concessions & premium dining"
+    },
+    {
+      "id": "sow-plated-pastry-prep-baker",
+      "title": "Pastry Prep/Baker",
+      "company": "S\u014cW Plated",
+      "location": "Columbus, OH",
+      "type": "other",
+      "pay": "$18\u201321/hr",
+      "schedule": "Part-time",
+      "url": "https://www.simplyhired.com/job/vlhrXpV7jmSZGukOOp-uTDD5CIPVBBtUl2J0Ew_iehJPd6v2ZDwZ8g",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "Scratch caf\u00e9 bakery program"
+    },
+    {
+      "id": "metsis-am-prep-baking-pastry",
+      "title": "AM Prep Cook / Baking and Pastry",
+      "company": "Metsi's Wood-Fired Italian",
+      "location": "Columbus, OH",
+      "type": "other",
+      "pay": "$20/hr",
+      "schedule": "Full-time",
+      "url": "https://www.simplyhired.com/job/RZazMrTEuXGZjBecXMsC9fc8wOk8ZFjYexNbjieIbxHmYdeZqDPVEg",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "Morning baking & pastry prep; paid training"
+    },
+    {
+      "id": "new-albany-country-club-pastry-cook",
+      "title": "Pastry Cook (Seasonal)",
+      "company": "New Albany Country Club",
+      "location": "New Albany, OH",
+      "type": "event",
+      "pay": "$18\u201320/hr",
+      "schedule": "Part-time",
+      "url": "https://www.linkedin.com/jobs/view/pastry-cook-seasonal-at-new-albany-country-club-4065388614",
+      "source": "LinkedIn",
+      "firstSeen": "2026-09-07",
+      "notes": "Private club \u2014 member dining, banquets & events"
+    },
+    {
+      "id": "der-dutchman-plain-city-bakery-staff",
+      "title": "Bakery Staff",
+      "company": "Der Dutchman Restaurant Plain City",
+      "location": "Plain City, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "Weekends as needed",
+      "url": "https://www.simplyhired.com/job/kCuHrsAYbvtr7L-fjm0bPun3DDc_9gRFYTA6-xyoqwDNEiCpPhloQQ",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "High-volume scratch bakery attached to the restaurant"
+    },
+    {
+      "id": "paris-baguette-columbus-baker",
+      "title": "Baker",
+      "company": "Paris Baguette",
+      "location": "Columbus, OH",
+      "type": "other",
+      "pay": "$15\u201317/hr",
+      "schedule": "Full-time",
+      "url": "https://www.simplyhired.com/job/gw1Ud9uc8ouZMnz3p6Sryd96qWEyqL4hdIuKFZ7lwI1E8QyOjzJ5bA",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "Dedicated bakery \u2014 entry level, will train"
+    },
+    {
+      "id": "paris-baguette-upper-arlington-caker",
+      "title": "Caker (Cake Finishing)",
+      "company": "Paris Baguette Upper Arlington",
+      "location": "Columbus, OH",
+      "type": "other",
+      "pay": "$15\u201318/hr",
+      "schedule": "Part-time",
+      "url": "https://www.simplyhired.com/job/4c7bOLDAJbAYNfp-v9jz3Ncg_PR-6AzF4hcoKWXMmyLjAiUzJ_hpOQ",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "Dedicated bakery \u2014 cake assembly & decorating"
+    },
+    {
+      "id": "lauras-cookies-baker-decorator",
+      "title": "Cookie Baker / Decorator",
+      "company": "Laura's Cookies",
+      "location": "Dayton, OH",
+      "type": "other",
+      "pay": "$15\u201316/hr",
+      "schedule": "",
+      "url": "https://www.simplyhired.com/job/R9a997q4rpI1NLEzjJLDKhS0W9Y6mb2qbl5WvXVPmLCsWzh8Wfmjpw",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "Decorated cookie production shop"
+    },
+    {
+      "id": "dorothy-lane-market-artisan-bread-baker",
+      "title": "Artisan Bread Line Operator",
+      "company": "Dorothy Lane Market",
+      "location": "Washington Township, OH",
+      "type": "other",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://www.simplyhired.com/job/vAuUFN5y5J8Ibc5-Oo7cxNDAcjFHCLpExMO1h7BS-vumcQ68av7t3g",
+      "source": "SimplyHired",
+      "firstSeen": "2026-09-07",
+      "notes": "DLM's in-house artisan bread bakehouse"
     }
   ]
 }
