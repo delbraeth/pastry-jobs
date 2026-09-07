@@ -86,8 +86,8 @@
 </head>
 <body>
 <header>
-  <h1>🥐 Pastry Jobs — Southwest Ohio</h1>
-  <div class="sub">Pastry chef · baker · pastry cook · sous chef — Cincinnati, Dayton &amp; Columbus</div>
+  <h1>🥐 Pastry Jobs</h1>
+  <div class="sub">Pastry chef · baker · pastry cook · sous chef — Ohio, New Orleans, Orlando &amp; Asheville</div>
   <div class="updated" id="updated"></div>
 </header>
 
@@ -99,6 +99,9 @@
   <button data-f="cincinnati">Cincinnati</button>
   <button data-f="columbus">Columbus</button>
   <button data-f="dayton">Dayton</button>
+  <button data-f="neworleans">New Orleans</button>
+  <button data-f="orlando">Orlando</button>
+  <button data-f="biltmore">Biltmore (Asheville)</button>
 </div>
 
 <main>
@@ -115,6 +118,9 @@
 const CINCY = ['cincinnati','west chester','mason','lebanon','covington','newport','florence'];
 const COLS  = ['columbus','dublin','upper arlington','new albany','westerville','hilliard','gahanna','reynoldsburg','grove city'];
 const DAYT  = ['dayton','centerville','kettering','washington township','xenia','wilberforce','beavercreek','springboro','miamisburg'];
+const NOLA  = ['new orleans','metairie','kenner','gretna','harahan'];
+const ORL   = ['orlando','lake buena vista','bay lake','kissimmee','celebration','windermere','winter park','disney'];
+const ASHE  = ['asheville','biltmore'];
 
 let jobs = [];
 let active = new Set();  // selected filters; empty = show all
@@ -125,6 +131,9 @@ function region(loc) {
   if (CINCY.some(c => l.includes(c))) return 'cincinnati';
   if (COLS.some(c => l.includes(c))) return 'columbus';
   if (DAYT.some(c => l.includes(c))) return 'dayton';
+  if (NOLA.some(c => l.includes(c))) return 'neworleans';
+  if (ORL.some(c => l.includes(c))) return 'orlando';
+  if (ASHE.some(c => l.includes(c))) return 'biltmore';
   return 'other';
 }
 function isNew(j) { return j.firstSeen === lastUpdated; }
