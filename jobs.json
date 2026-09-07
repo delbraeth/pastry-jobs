@@ -46,7 +46,7 @@
       "company": "Suzu Hospitality",
       "location": "Cincinnati, OH",
       "type": "other",
-      "pay": "$15\u201322/hr",
+      "pay": "$15–22/hr",
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/nMg2Cgh1mK6HjboN_l6NZPjDUwa05VHDC_TR6YPMaJbSs_inL3HyZg",
       "source": "SimplyHired",
@@ -124,7 +124,7 @@
       "company": "Fabio Viviani Hospitality Group",
       "location": "Cincinnati, OH",
       "type": "other",
-      "pay": "$85\u2013100K",
+      "pay": "$85–100K",
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/CxLCA4dHyXTnSy6gq_qyqEXJp3LAeectDqhXxtH9KPCovn79NFvI8w",
       "source": "SimplyHired",
@@ -173,15 +173,15 @@
     {
       "id": "sow-plated-pastry-prep-baker",
       "title": "Pastry Prep/Baker",
-      "company": "S\u014cW Plated",
+      "company": "SŌW Plated",
       "location": "Columbus, OH",
       "type": "other",
-      "pay": "$18\u201321/hr",
+      "pay": "$18–21/hr",
       "schedule": "Part-time",
       "url": "https://www.simplyhired.com/job/vlhrXpV7jmSZGukOOp-uTDD5CIPVBBtUl2J0Ew_iehJPd6v2ZDwZ8g",
       "source": "SimplyHired",
       "firstSeen": "2026-09-07",
-      "notes": "Scratch caf\u00e9 bakery program"
+      "notes": "Scratch café bakery program"
     },
     {
       "id": "metsis-am-prep-baking-pastry",
@@ -202,12 +202,12 @@
       "company": "New Albany Country Club",
       "location": "New Albany, OH",
       "type": "event",
-      "pay": "$18\u201320/hr",
+      "pay": "$18–20/hr",
       "schedule": "Part-time",
       "url": "https://www.linkedin.com/jobs/view/pastry-cook-seasonal-at-new-albany-country-club-4065388614",
       "source": "LinkedIn",
       "firstSeen": "2026-09-07",
-      "notes": "Private club \u2014 member dining, banquets & events"
+      "notes": "Private club — member dining, banquets & events"
     },
     {
       "id": "der-dutchman-plain-city-bakery-staff",
@@ -228,12 +228,12 @@
       "company": "Paris Baguette",
       "location": "Columbus, OH",
       "type": "other",
-      "pay": "$15\u201317/hr",
+      "pay": "$15–17/hr",
       "schedule": "Full-time",
       "url": "https://www.simplyhired.com/job/gw1Ud9uc8ouZMnz3p6Sryd96qWEyqL4hdIuKFZ7lwI1E8QyOjzJ5bA",
       "source": "SimplyHired",
       "firstSeen": "2026-09-07",
-      "notes": "Dedicated bakery \u2014 entry level, will train"
+      "notes": "Dedicated bakery — entry level, will train"
     },
     {
       "id": "paris-baguette-upper-arlington-caker",
@@ -241,12 +241,12 @@
       "company": "Paris Baguette Upper Arlington",
       "location": "Columbus, OH",
       "type": "other",
-      "pay": "$15\u201318/hr",
+      "pay": "$15–18/hr",
       "schedule": "Part-time",
       "url": "https://www.simplyhired.com/job/4c7bOLDAJbAYNfp-v9jz3Ncg_PR-6AzF4hcoKWXMmyLjAiUzJ_hpOQ",
       "source": "SimplyHired",
       "firstSeen": "2026-09-07",
-      "notes": "Dedicated bakery \u2014 cake assembly & decorating"
+      "notes": "Dedicated bakery — cake assembly & decorating"
     },
     {
       "id": "lauras-cookies-baker-decorator",
@@ -254,7 +254,7 @@
       "company": "Laura's Cookies",
       "location": "Dayton, OH",
       "type": "other",
-      "pay": "$15\u201316/hr",
+      "pay": "$15–16/hr",
       "schedule": "",
       "url": "https://www.simplyhired.com/job/R9a997q4rpI1NLEzjJLDKhS0W9Y6mb2qbl5WvXVPmLCsWzh8Wfmjpw",
       "source": "SimplyHired",
@@ -273,6 +273,110 @@
       "source": "SimplyHired",
       "firstSeen": "2026-09-07",
       "notes": "DLM's in-house artisan bread bakehouse"
+    },
+    {
+      "id": "emerils-pastry-cook-nola",
+      "title": "Pastry Cook",
+      "company": "Emeril's Restaurant",
+      "location": "New Orleans, LA",
+      "type": "other",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://oysterlink.com/jobs/pastry-chef/new-orleans-la/",
+      "source": "OysterLink",
+      "firstSeen": "2026-09-07",
+      "notes": "Flagship fine-dining, 800 Tchoupitoulas"
+    },
+    {
+      "id": "la-boulangerie-pastry-cook-nola",
+      "title": "Pastry Cook",
+      "company": "La Boulangerie",
+      "location": "New Orleans, LA",
+      "type": "other",
+      "pay": "",
+      "schedule": "",
+      "url": "https://oysterlink.com/jobs/pastry-chef/new-orleans-la/",
+      "source": "OysterLink",
+      "firstSeen": "2026-09-07",
+      "notes": "French bakery"
+    },
+    {
+      "id": "wdw-culinary-cook-1-pastry-bakery",
+      "title": "Culinary Cook 1 - Pastry/Bakery (Adv. Baker)",
+      "company": "Walt Disney World",
+      "location": "Lake Buena Vista, FL",
+      "type": "event",
+      "pay": "$25.10/hr",
+      "schedule": "Full-time/Part-time",
+      "url": "https://jobs.disneycareers.com/job/orlando/culinary-cook-1-pastry-bakery-adv-baker-ft-pt-walt-disney-world/391/78839009872",
+      "source": "Disney Careers",
+      "firstSeen": "2026-09-07",
+      "notes": "Theme-park resort bakery"
+    },
+    {
+      "id": "wdw-assistant-sous-chef-pastry",
+      "title": "Assistant Sous Chef - Pastry/Bakery",
+      "company": "Walt Disney World",
+      "location": "Lake Buena Vista, FL",
+      "type": "event",
+      "pay": "$26.60/hr",
+      "schedule": "Full-time",
+      "url": "https://www.disneycareers.com/en/job/orlando/assistant-sous-chef-pastry-bakery-ft-walt-disney-world/391/82686503744",
+      "source": "Disney Careers",
+      "firstSeen": "2026-09-07",
+      "notes": ""
+    },
+    {
+      "id": "wdw-pastry-chef",
+      "title": "Pastry Chef",
+      "company": "Walt Disney World",
+      "location": "Lake Buena Vista, FL",
+      "type": "event",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://www.disneycareers.com/en/job/lake-buena-vista/pastry-chef/391/94695012256",
+      "source": "Disney Careers",
+      "firstSeen": "2026-09-07",
+      "notes": ""
+    },
+    {
+      "id": "biltmore-fnb-pastry-demi-chef",
+      "title": "F&B Pastry Demi Chef",
+      "company": "Biltmore Estate",
+      "location": "Asheville, NC",
+      "type": "event",
+      "pay": "$21/hr",
+      "schedule": "Full-time",
+      "url": "https://www.biltmore.com/careers/",
+      "source": "Biltmore Careers",
+      "firstSeen": "2026-09-07",
+      "notes": "Estate dining across six venues"
+    },
+    {
+      "id": "biltmore-deerpark-pastry-line-cook",
+      "title": "Deerpark Pastry Line Cook",
+      "company": "Biltmore Estate",
+      "location": "Asheville, NC",
+      "type": "event",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://www.biltmore.com/careers/",
+      "source": "Biltmore Careers",
+      "firstSeen": "2026-09-07",
+      "notes": "Deerpark Restaurant"
+    },
+    {
+      "id": "biltmore-pastry-line-cook-banquet",
+      "title": "Pastry Line Cook: Banquet & Daily Desserts",
+      "company": "Biltmore Estate",
+      "location": "Asheville, NC",
+      "type": "event",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://www.biltmore.com/careers/",
+      "source": "Biltmore Careers",
+      "firstSeen": "2026-09-07",
+      "notes": "Banquet & catering pastry"
     }
   ]
 }
