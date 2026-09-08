@@ -301,45 +301,6 @@
       "notes": "French bakery"
     },
     {
-      "id": "wdw-culinary-cook-1-pastry-bakery",
-      "title": "Culinary Cook 1 - Pastry/Bakery (Adv. Baker)",
-      "company": "Walt Disney World",
-      "location": "Lake Buena Vista, FL",
-      "type": "event",
-      "pay": "$25.10/hr",
-      "schedule": "Full-time/Part-time",
-      "url": "https://jobs.disneycareers.com/job/orlando/culinary-cook-1-pastry-bakery-adv-baker-ft-pt-walt-disney-world/391/78839009872",
-      "source": "Disney Careers",
-      "firstSeen": "2026-09-07",
-      "notes": "Theme-park resort bakery"
-    },
-    {
-      "id": "wdw-assistant-sous-chef-pastry",
-      "title": "Assistant Sous Chef - Pastry/Bakery",
-      "company": "Walt Disney World",
-      "location": "Lake Buena Vista, FL",
-      "type": "event",
-      "pay": "$26.60/hr",
-      "schedule": "Full-time",
-      "url": "https://www.disneycareers.com/en/job/orlando/assistant-sous-chef-pastry-bakery-ft-walt-disney-world/391/82686503744",
-      "source": "Disney Careers",
-      "firstSeen": "2026-09-07",
-      "notes": ""
-    },
-    {
-      "id": "wdw-pastry-chef",
-      "title": "Pastry Chef",
-      "company": "Walt Disney World",
-      "location": "Lake Buena Vista, FL",
-      "type": "event",
-      "pay": "",
-      "schedule": "Full-time",
-      "url": "https://www.disneycareers.com/en/job/lake-buena-vista/pastry-chef/391/94695012256",
-      "source": "Disney Careers",
-      "firstSeen": "2026-09-07",
-      "notes": ""
-    },
-    {
       "id": "biltmore-fnb-pastry-demi-chef",
       "title": "F&B Pastry Demi Chef",
       "company": "Biltmore Estate",
@@ -377,6 +338,32 @@
       "source": "Biltmore Careers",
       "firstSeen": "2026-09-07",
       "notes": "Banquet & catering pastry"
+    },
+    {
+      "id": "north-italia-orlando-pastry-cook-baker",
+      "title": "Pastry Cook / Baker",
+      "company": "North Italia",
+      "location": "Orlando, FL",
+      "type": "other",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://www.northitaliacareers.com/north-italia-careers-home/jobs/6201?lang=en-us",
+      "source": "North Italia Careers",
+      "firstSeen": "2026-09-07",
+      "notes": "Upscale Italian, Orlando area"
+    },
+    {
+      "id": "four-seasons-orlando-pastry-chef-de-partie",
+      "title": "Pastry Chef de Partie",
+      "company": "Four Seasons",
+      "location": "Orlando, FL",
+      "type": "other",
+      "pay": "",
+      "schedule": "Full-time",
+      "url": "https://oysterlink.com/jobs/pastry-chef/orlando-fl/",
+      "source": "OysterLink",
+      "firstSeen": "2026-09-07",
+      "notes": "Four Seasons Resort Orlando (Lake Buena Vista)"
     }
   ]
 }
