@@ -99,11 +99,11 @@
       "location": "Columbus, OH",
       "type": "event",
       "pay": "$16/hr",
-      "schedule": "Part-time",
-      "url": "https://careers.compass-usa.com/",
-      "source": "web search \u2192 Compass Group careers",
+      "schedule": "",
+      "url": "https://careers.compass-usa.com/pastry-cook-baker-greater-columbus-convention-center/job/3DC0114CFE238DC3A9F0F2D1D34631E3",
+      "source": "Compass Group careers",
       "firstSeen": "2026-11-18",
-      "notes": "Convention-center pastry; per-job link unconfirmed, search the careers site for GCCC"
+      "notes": "Levy Sector, req 1342436; verified 2026-11-18. Posting states no employment type"
     },
     {
       "id": "dorothy-lane-market-artisan-bread-baker",
@@ -159,42 +159,16 @@
     },
     {
       "id": "sodexo-uc-pastry-chef",
-      "title": "Pastry Chef (University of Cincinnati area)",
-      "company": "Sodexo",
+      "title": "Pastry Chef",
+      "company": "Sodexo (University of Cincinnati Main Campus)",
       "location": "Cincinnati, OH",
       "type": "event",
       "pay": "$22\u201325/hr",
-      "schedule": "",
-      "url": "https://careers.sodexo.com/",
-      "source": "web search \u2192 Sodexo careers",
+      "schedule": "Full-time",
+      "url": "https://jobs.us.sodexo.com/pastry-chef/job/6794B89CE495148211819A7B79D3DF09",
+      "source": "Sodexo careers",
       "firstSeen": "2026-11-18",
-      "notes": "Campus dining pastry lead; per-job link unconfirmed"
-    },
-    {
-      "id": "delaware-north-gabp-suites-line-cook",
-      "title": "Suites Line Cook, Great American Ball Park",
-      "company": "Delaware North",
-      "location": "Cincinnati, OH",
-      "type": "sports",
-      "pay": "",
-      "schedule": "",
-      "url": "https://careers.delawarenorth.com/",
-      "source": "web search \u2192 Delaware North careers",
-      "firstSeen": "2026-11-18",
-      "notes": "Reds ballpark premium/suite dining; per-job link unconfirmed"
-    },
-    {
-      "id": "boca-restaurant-group-pastry-cook",
-      "title": "Pastry Cook",
-      "company": "Boca Restaurant Group",
-      "location": "Cincinnati, OH",
-      "type": "other",
-      "pay": "",
-      "schedule": "Full-time / Part-time",
-      "url": "https://oysterlink.com/jobs/pastry-chef/cincinnati-oh/",
-      "source": "OysterLink",
-      "firstSeen": "2026-11-18",
-      "notes": "Boca, Sotto, Nada & Domo concepts; listing page link"
+      "notes": "Campus dining; job ID P27-1524942-1; verified 2026-11-18"
     },
     {
       "id": "dickie-brennan-pastry-chef",
@@ -600,32 +574,6 @@
       "notes": "Private club \u2014 member dining & banquets, west of Orlando"
     },
     {
-      "id": "o-ku-winter-park-pastry-assistant",
-      "title": "Pastry Assistant",
-      "company": "O-Ku Sushi Winter Park",
-      "location": "Winter Park, FL",
-      "type": "other",
-      "pay": "",
-      "schedule": "Weekends as needed",
-      "url": "https://www.simplyhired.com/job/vbq8J7yNacl4yaa1Tcp3LsvTMX9TJvD8BSQv-68IFOOUEDCDK0PpWA",
-      "source": "SimplyHired",
-      "firstSeen": "2026-11-18",
-      "notes": ""
-    },
-    {
-      "id": "wp-new-modern-general-baker",
-      "title": "Baker",
-      "company": "WP New Modern General",
-      "location": "Winter Park, FL",
-      "type": "other",
-      "pay": "$15\u201319/hr",
-      "schedule": "Weekends as needed",
-      "url": "https://www.simplyhired.com/job/P8dk_5hkSQaazQVJ_NAG6c6FvObXvch_mZXnj0ZQlGZjA5FZfwFgXA",
-      "source": "SimplyHired",
-      "firstSeen": "2026-11-18",
-      "notes": ""
-    },
-    {
       "id": "nothing-bundt-kissimmee-froster",
       "title": "Froster (New Bakery Opening)",
       "company": "Nothing Bundt Cakes",
@@ -652,56 +600,17 @@
       "notes": "Dedicated bakery \u2014 cake finishing"
     },
     {
-      "id": "biltmore-stable-cafe-demi-pastry-chef",
-      "title": "Demi Pastry Chef \u2014 Stable Caf\u00e9",
-      "company": "Biltmore Estate",
-      "location": "Asheville, NC",
-      "type": "event",
-      "pay": "$21/hr",
-      "schedule": "Full-time",
-      "url": "https://biltmore.wd108.myworkdayjobs.com/Biltmorecareers",
-      "source": "Biltmore careers (Workday)",
-      "firstSeen": "2026-11-18",
-      "notes": "Estate dining; hotel/resort experience preferred"
-    },
-    {
-      "id": "biltmore-exec-pastry-chef",
-      "title": "Executive Pastry Chef",
-      "company": "Biltmore Estate",
-      "location": "Asheville, NC",
-      "type": "event",
-      "pay": "",
-      "schedule": "Full-time",
-      "url": "https://biltmore.wd108.myworkdayjobs.com/Biltmorecareers",
-      "source": "Biltmore careers (Workday)",
-      "firstSeen": "2026-11-18",
-      "notes": "Leads estate-wide pastry incl. department financials"
-    },
-    {
       "id": "biltmore-inn-pastry-line-cook-flex",
       "title": "Inn Pastry Line Cook - Flex",
-      "company": "Biltmore Estate",
+      "company": "Biltmore Estate (BWM Biltmore Workforce Management)",
       "location": "Asheville, NC",
       "type": "event",
       "pay": "From $20/hr",
-      "schedule": "Part-time",
-      "url": "https://biltmore.wd108.myworkdayjobs.com/Biltmorecareers",
-      "source": "Biltmore careers (Workday)",
+      "schedule": "Flex (avg 20\u201329 hrs/wk)",
+      "url": "https://www.monster.com/job-openings/inn-pastry-line-cook-flex--c89a5f05-3c19-4f99-a87c-51368e3699de",
+      "source": "Monster (Biltmore/BWM posting)",
       "firstSeen": "2026-11-18",
-      "notes": "The Inn on Biltmore Estate"
-    },
-    {
-      "id": "omni-grove-park-exec-pastry-chef",
-      "title": "Executive Pastry Chef",
-      "company": "Omni Grove Park Inn",
-      "location": "Asheville, NC",
-      "type": "event",
-      "pay": "",
-      "schedule": "Full-time",
-      "url": "https://omnihotels.wd5.myworkdayjobs.com/External",
-      "source": "web search \u2192 Omni careers",
-      "firstSeen": "2026-11-18",
-      "notes": "AAA Four-Diamond resort; per-job link unconfirmed"
+      "notes": "The Inn on Biltmore Estate; 5am\u20131pm; posted ~9 days ago. Apply via biltmore.wd108.myworkdayjobs.com/Biltmorecareers"
     },
     {
       "id": "omni-grove-park-overnight-baker",
@@ -711,23 +620,36 @@
       "type": "event",
       "pay": "",
       "schedule": "Overnight shift",
-      "url": "https://omnihotels.wd5.myworkdayjobs.com/External",
-      "source": "web search \u2192 Omni careers",
+      "url": "https://externalhourly-omnihotels.icims.com/jobs/132009/overnight-baker/job",
+      "source": "Omni careers (iCIMS)",
       "firstSeen": "2026-11-18",
-      "notes": "Resort bakeshop, overnights; per-job link unconfirmed"
+      "notes": "Req 2026-132009, 2 openings, 3am start, $1,000 sign-on bonus; verified 2026-11-18"
     },
     {
       "id": "omni-grove-park-pastry-cook",
-      "title": "Pastry Cook",
+      "title": "Pastry Cook 2",
       "company": "Omni Grove Park Inn",
       "location": "Asheville, NC",
       "type": "event",
       "pay": "",
       "schedule": "Full-time",
-      "url": "https://omnihotels.wd5.myworkdayjobs.com/External",
-      "source": "web search \u2192 Omni careers",
+      "url": "https://externalhourly-omnihotels.icims.com/jobs/131659/pastry-cook-2/job",
+      "source": "Omni careers (iCIMS)",
       "firstSeen": "2026-11-18",
-      "notes": "Hotel restaurants & banquets; per-job link unconfirmed"
+      "notes": "Req 2026-131659, 3 openings, $1,000 sign-on bonus; verified 2026-11-18"
+    },
+    {
+      "id": "delaware-north-gabp-line-cook",
+      "title": "Line Cook, Great American Ball Park",
+      "company": "Delaware North (Sportservice)",
+      "location": "Cincinnati, OH",
+      "type": "sports",
+      "pay": "$13\u201315/hr",
+      "schedule": "Seasonal",
+      "url": "https://careers.delawarenorth.com/job/21453686",
+      "source": "Delaware North careers",
+      "firstSeen": "2026-11-18",
+      "notes": "Reds ballpark concessions; req 38768; verified 2026-11-18"
     }
   ]
 }
